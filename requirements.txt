@@ -6,3 +6,4 @@ langchain
 ragas
 python-dotenv
 faiss-cpu
+cassio
