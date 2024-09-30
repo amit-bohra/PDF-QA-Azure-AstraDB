@@ -1,0 +1,8 @@
+streamlit
+openai
+azure-storage-blob
+PyPDF2
+langchain
+ragas
+python-dotenv
+faiss-cpu
